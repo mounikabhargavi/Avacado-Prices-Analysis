@@ -1,2 +1,2 @@
 # Avacado-Prices-Analysis
-Avacado Prices Data Analysis
+One Sample t-test and Hypothesis testing for predicting Avacado Prices
